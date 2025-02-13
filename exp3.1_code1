@@ -1,4 +1,6 @@
-Experiment - 3.1. Write a Java program to calculate the square root of a number entered by the user. Use try-catch to handle invalid inputs (e.g., negative numbers or non-numeric values).          
+                                                                                         ***Problem***
+Experiment - 3.1.(a) Write a Java program to calculate the square root of a number entered by the user. Use try-catch to handle invalid inputs (e.g., negative numbers or non-numeric values).          
+                                                                                       ******CODE******
 
 import java.util.Scanner;
 public class SquareRootCalculator {
